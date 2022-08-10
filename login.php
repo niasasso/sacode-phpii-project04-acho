@@ -30,7 +30,7 @@
               <div class="form-label text muted" for="kata-sandi">Kata sandi</div>
               <input type="password" name="" id="kata-sandi" class="form-control form-control-lg py-3" placeholder="Kata sandi">
               <small>
-                <a href="#" class="link-primary">Lupa kata sandi?</a>
+                <a href="lupa.php" class="link-primary">Lupa kata sandi?</a>
               </small>
             </div>
 

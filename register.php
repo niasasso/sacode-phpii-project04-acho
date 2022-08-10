@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Login | SaCode</title>
+    <title>Registration</title>
 
     <!-- CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
@@ -48,7 +48,7 @@
 
             <div  class="form-group mb-3">
               <div class="form-label text muted" for="kata-sandi"> Ulang kata sandi</div>
-              <input type="password" name="" id="kata-sandi" class="form-control form-control-lg py-3" placeholder="Kata sandi">
+              <input type="password" name="" id="kata-sandi" class="form-control form-control-lg py-3" placeholder="Ulang kata sandi">
             </div>
             <br>
 
